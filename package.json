@@ -1,7 +1,7 @@
 {
-  "name": "visual-code-space.github.io",
+  "name": "sparkles-backend.vercel.app",
   "version": "0.1.0",
-  "description": "Visual Code Space official website.",
+  "description": "Sparkles official Backend.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
