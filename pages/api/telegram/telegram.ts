@@ -12,7 +12,7 @@ export async function sendTelegramMessage(message: string): Promise<void> {
       body: JSON.stringify({
         chat_id: telegramChatId,
         text: message,
-        message_thread_id: 29,
+        message_thread_id: 11,
         parse_mode: "Markdown",
       }),
     });
